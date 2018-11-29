@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from ros_label_topic.srv import label_info
 from ros_label_topic.msg import label_topic_msg
 import sys

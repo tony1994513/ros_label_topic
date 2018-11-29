@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from ros_label_topic.srv import label_info,label_infoRequest
 import rospy
 import sys
