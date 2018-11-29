@@ -1,2 +1,2 @@
-string label_name
+string[] label_names
 time time_stamp
